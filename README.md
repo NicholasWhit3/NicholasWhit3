@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NicholasWhit3
-- 👀 I’m interested in back end dev.
-- 🌱 I’m currently learning C,C++,C#,MySQL & Java
+- 👋 Hi, I’m @NicholasWhit3 Automation QA
+- 👀 I’m interested in back-end dev.
+- 🌱 I’m currently keep learning C,C++,C#,MySQL & Java
 - 📫 How to reach me ...
 
 <!---
