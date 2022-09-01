@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicholasWhit3 Automation QA
 - 👀 I’m interested in Automotive/Mobile/Web testing.
-- 🌱 I’m currently keep learning C#,MySQL & Java, Python
+- 🌱 I’m currently keep learning C# & Python and open to learn RBA
 - 📫 How to reach me ...
 
 <!---
